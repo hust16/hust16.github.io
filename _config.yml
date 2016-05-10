@@ -18,19 +18,24 @@ title:       "HUST 16: Third International Workshop on HPC User Support Tools"
 keywords:    "HPC, hpc, support, user, build, tools, sc16, hust16, hust, devops, supercomputing"
 description: "Third International Workshop on HPC User Support Tools"
 source_link: "https://github.com/hust16/hust16.github.io"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-77529821-1
 
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
-  white:     '#ffffff'
-  blue:      '#2a52be'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
   green:     '#377f1c'
   red:       '#be4c2a'
   purple:    '#b32a52'
   orange:    '#a98625'
-  turquoise: '#2a9cbe'
+  turquoise: '#0fbfcf'
   
 
+kramdown:
+  auto_ids:  false
+
+gems:
+  - jemoji
