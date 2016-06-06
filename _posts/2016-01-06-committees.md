@@ -30,7 +30,7 @@ icon-title: true
 * Andy Georges, Ghent University, Belgium
 * Christopher Harris, Pawsey Supercomputing Centre, Australia
 * Vera Hansper, CSC - IT Center for Science, Finland
-* Paul Kolano, NASA, USA
+* Paul Kolano, NASA Ames Research Center, USA
 * Olli-Pekka Lehto, CSC - IT Center for Science, Finland
 * James Lin, Center for HPC, Shanghai Jiao Tong University, China
 * John C. Linford, ParaTools, USA
