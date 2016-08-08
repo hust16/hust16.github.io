@@ -30,16 +30,16 @@ colors:
 #  blue:      '#2a52be'
 #  orange:    '#a98625'
 #  red:       '#be4c2a'
-#  green:     '#377f1c'
+  green:     '#377f1c'
 #  purple:    '#be2a52'
 #  turquoise: '#2a9cbe
 
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
+#  green:     '#9bcf2f'
+#  purple:    '#b32a52'
+  orange:    '#a98625'
   turquoise: '#0fbfcf'
   
 
