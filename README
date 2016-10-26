@@ -1,0 +1,21 @@
+These are notes for maintaining the static website on github.
+
+GITHUB pages use Jekyll 3 or higher
+Jekyll Installation on my mac
+
+Prerequisites
+Ruby  - default system version should be okay
+Xcode - download form the app store
+Xcode CLI - install with 'xcode-select --install' from xcode terminal
+
+sudo gem install jekyll
+sudo gem install jemoji  - needed to run 'jekyll serve'
+
+
+to review changes before pushing to repo (and public website)
+run from local directory.
+
+jekyll serve --host=0.0.0.0
+
+ 
+
