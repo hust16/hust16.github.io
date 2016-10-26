@@ -12,9 +12,11 @@ sufficient background material to be clear to the HPC
 community. Papers should be submitted in PDF format and should not
 exceed 10 pages including tables, figures and appendices, but
 excluding references. They should be formatted according to the
-[ACM SIG Proceedings format](http://www.acm.org/sigs/publications/proceedings-templates).
-Similar to the SC16 policy, margins and font sizes should not be
-modified. We kindly refer authors to the necessary templates.
+[the IEEE format] for conference proceedings.(http://www.ieee.org/conferences_events/conferences/publishing/templates.html). _This is a late change
+for papers well accept papers in the ACM format for review but will 
+be required to be reformatted._ Similar to the SC16 policy, margins 
+and font sizes should not be modified. We kindly refer authors to 
+the necessary templates.
 
 All submissions should be made electronically through the Easychair website.
 Submissions must be double blind, i.e., authors should remove their names,
